@@ -1,6 +1,8 @@
 # simple_news_app
 
-A new Flutter project.
+A simple news application made with flutter. It uses api from newsapi.org
+
+*News Api
 
 ## Getting Started
 
