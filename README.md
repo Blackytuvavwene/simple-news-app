@@ -5,8 +5,8 @@ A simple news application made with flutter. It uses api from newsapi.org
 **ScreenShots**
 
 Below are the screenshots of the app
-![News List](https://github.com/Blackytuvavwene/simple-news-app/blob/master/screenshot-2021-07-28_14.40.04.783.png)
-<img src="https://github.com/Blackytuvavwene/simple-news-app/blob/master/screenshot-2021-07-28_14.40.18.684.png" width="100" height="400">
+<img src="https://github.com/Blackytuvavwene/simple-news-app/blob/master/screenshot-2021-07-28_14.40.04.783.png" width="720" height="1920">
+<img src="https://github.com/Blackytuvavwene/simple-news-app/blob/master/screenshot-2021-07-28_14.40.18.684.png" width="720" height="1920">
 
 ## Getting Started
 
