@@ -11,6 +11,11 @@ Below are the screenshots of the app
 <img src="https://github.com/Blackytuvavwene/simple-news-app/blob/master/screenshot-2021-07-28_14.40.04.783.png" width="420" height="720">                                                                                                                   <img src="https://github.com/Blackytuvavwene/simple-news-app/blob/master/screenshot-2021-07-28_14.40.18.684.png" width="420" height="720">
 
 
+
+An API from NewsApi was used to get the news [NewsApi](https://newsapi.org/)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
